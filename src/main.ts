@@ -1,8 +1,10 @@
 import { createApp } from 'vue'
 
+import App from '@/components/app.vue'
+
 import router from '@/router'
 
-import App from '@/components/app.vue'
+import '@/sass/styles.sass'
 
 const app = createApp(App)
 

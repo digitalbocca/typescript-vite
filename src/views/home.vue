@@ -13,6 +13,6 @@ const viewTitle = 'Home'
 <style lang="sass" scoped>
 
 .view-title
-  font-size: 1.5em
+  @apply text-2xl
 
 </style>
