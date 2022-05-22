@@ -5,6 +5,7 @@ import App from '@/components/app.vue'
 import router from '@/router'
 
 import '@/sass/styles.sass'
+import 'flowbite'
 
 const app = createApp(App)
 

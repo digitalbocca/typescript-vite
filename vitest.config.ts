@@ -13,7 +13,7 @@ export default defineConfig({
       extension: [
         'vue',
       ],
-    }
+    },
   },
   resolve: {
     alias: {
